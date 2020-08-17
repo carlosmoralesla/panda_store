@@ -1,20 +1,23 @@
 # panda_store
 This project is development for a small business 
 
-Company: Panda Store.
+Company: Panda Store.<br>
 
+<br>
+<b>Access:</b>
+user database: admin  <br>
+user password: admin  <br>
 
-Access:
-user database: admin
-user password: admin
+<br><br>
 
+Heroku:<br>
+project_name:  apppanda  <br>
+resources:     ClearDB Mysql  (for database)<br>
 
-Heroku:
-project_name:  apppanda
-resources:     ClearDB Mysql  (for database)
+<br><br>
 
-Heroku DB:
-db_user:  b4e9244ef09c92
-db_pass:  c1f39122
-db_host:  us-cdbr-east-02.cleardb.com
-db_name   heroku_202e23678af4aa5
+Heroku DB:<br>
+db_user:  b4e9244ef09c92<br>
+db_pass:  c1f39122<br>
+db_host:  us-cdbr-east-02.cleardb.com<br>
+db_name   heroku_202e23678af4aa5<br>
